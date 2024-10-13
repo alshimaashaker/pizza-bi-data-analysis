@@ -82,8 +82,13 @@ The visuals are designed in a pizza-inspired color palette:
 ![Overview Tab](PIZZAVIDEO.gif) <!-- Replace with actual image link -->
 _Example of the **Overview Tab** in the dashboard, showing key KPIs and total sales trends._
 
+### [Powerbi]((https://github.com/alshimaashaker/pizza-bi-data-analysis/blob/main/PIZZA_task.pbix))
+powebi project
+
 ![Customer Tab](pizza_proj_photo.png) <!-- Replace with actual image link -->
 _Example of the **Customer Tab**, showcasing customer demographics and purchase frequency._
+
+
 
 ![Product Tab](https://image_link_product_tab.png) <!-- Replace with actual image link -->
 _Example of the **Product Tab**, highlighting the sales contribution of different products._
