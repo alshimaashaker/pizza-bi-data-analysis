@@ -76,6 +76,17 @@ The visuals are designed in a pizza-inspired color palette:
 
 - **High Sales Days**: Identified weekends and holidays as peak sales times.
 - **Popular Pizzas**: Certain pizza types and toppings are consistently high-performing.
+
+- ## 📊 Visuals
+
+![Overview Tab](PIZZAVIDEO.gif) <!-- Replace with actual image link -->
+_Example of the **Overview Tab** in the dashboard, showing key KPIs and total sales trends._
+
+![Customer Tab](pizza_proj_photo.png) <!-- Replace with actual image link -->
+_Example of the **Customer Tab**, showcasing customer demographics and purchase frequency._
+
+![Product Tab](https://image_link_product_tab.png) <!-- Replace with actual image link -->
+_Example of the **Product Tab**, highlighting the sales contribution of different products._
 - **Customer Demographics**: Younger demographics and specific locations drive the majority of sales.
 - **Revenue Contribution**: Certain high-priced pizzas contribute significantly to overall revenue, helping in targeted marketing.
 
